@@ -1,0 +1,9 @@
+The quick brown fox jumps over the lazy dog.
+
+This is the second paragraph. It contains multiple sentences to test the program.
+Does it work correctly? Yes, it does!
+
+Python is a great programming language. It is popular for web development, data analysis, and automation.
+Many developers love it!
+
+This is the final paragraph of the text file.
